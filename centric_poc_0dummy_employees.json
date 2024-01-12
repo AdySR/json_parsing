@@ -1,0 +1,129 @@
+[{
+  "_id": {
+    "$oid": "65a1023238572343e0522299"
+  },
+  "name": "Duane Jordan",
+  "email": "andrewwatson@example.net",
+  "position": "Leisure centre manager",
+  "salary": 34120,
+  "address": {
+    "street": "04035 Eric Vista",
+    "city": "Reidshire",
+    "state": "Texas",
+    "zipcode": "94050"
+  },
+  "inserted_at": "2024-01-12T09:11:14.926213",
+  "phone_numbers": [
+    "001-329-726-4069x14671"
+  ],
+  "skills": [
+    {
+      "name": "Illustrator",
+      "level": "Beginner"
+    },
+    {
+      "name": "Systems analyst",
+      "level": "Beginner"
+    },
+    {
+      "name": "Environmental consultant",
+      "level": "Beginner"
+    }
+  ],
+  "education": {
+    "degree": "Master's",
+    "major": "Dramatherapist",
+    "university": "Koch-Patel",
+    "graduation_year": 2001,
+    "additional_info": {
+      "thesis_topic": "Sell position hard group high to bar feeling.",
+      "advisor": "Christina Briggs"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "65a1023238572343e052229a"
+  },
+  "name": "James Murray",
+  "email": "amay@example.com",
+  "position": "Aid worker",
+  "salary": 98349,
+  "address": {
+    "street": "892 Jackson Camp",
+    "city": "Smithmouth",
+    "state": "New Hampshire",
+    "zipcode": "40460"
+  },
+  "inserted_at": "2024-01-12T09:11:14.927219",
+  "phone_numbers": [
+    "+1-305-202-0702x852"
+  ],
+  "skills": [
+    {
+      "name": "Editor, film/video",
+      "level": "Advanced"
+    },
+    {
+      "name": "Holiday representative",
+      "level": "Advanced"
+    },
+    {
+      "name": "Museum/gallery exhibitions officer",
+      "level": "Intermediate"
+    }
+  ],
+  "education": {
+    "degree": "Ph.D.",
+    "major": "TEFL teacher",
+    "university": "Cardenas-Barnes",
+    "graduation_year": 2007,
+    "additional_info": {
+      "thesis_topic": "Individual other next.",
+      "advisor": "Michael Estes"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "65a1023238572343e052229b"
+  },
+  "name": "Monique Cabrera",
+  "email": "herrerajacqueline@example.org",
+  "position": "Animator",
+  "salary": 96688,
+  "address": {
+    "street": "1366 Lopez Flat Suite 953",
+    "city": "Adrianmouth",
+    "state": "Arizona",
+    "zipcode": "71501"
+  },
+  "inserted_at": "2024-01-12T09:11:14.928212",
+  "phone_numbers": [
+    "(633)562-8601"
+  ],
+  "skills": [
+    {
+      "name": "Transport planner",
+      "level": "Intermediate"
+    },
+    {
+      "name": "Engineer, land",
+      "level": "Beginner"
+    },
+    {
+      "name": "Teacher, English as a foreign language",
+      "level": "Advanced"
+    }
+  ],
+  "education": {
+    "degree": "Ph.D.",
+    "major": "Engineer, biomedical",
+    "university": "Gentry Group",
+    "graduation_year": 2005,
+    "additional_info": {
+      "thesis_topic": "Treatment might interview focus than explain eight.",
+      "advisor": "Miss Tracy Marshall"
+    }
+  }
+}]

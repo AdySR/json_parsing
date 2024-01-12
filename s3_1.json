@@ -1,0 +1,53 @@
+{
+    "_id": {
+      "$oid": "65a008583b182966177ba60b"
+    },
+    "name": "Cody Russell",
+    "email": "timothygarrett@example.net",
+    "position": "Horticultural consultant",
+    "salary": {
+      "$numberInt": "80016"
+    },
+    "address": {
+      "street": "3829 Billy Throughway",
+      "city": "North Julie",
+      "state": "Virginia",
+      "zipcode": "72434"
+    },
+    "inserted_at": {
+      "$date": {
+        "$numberLong": "1704986712179"
+      }
+    },
+    "phone_numbers": [
+      "859-806-8324x9492",
+      "001-200-637-9941",
+      "821-643-5532"
+    ],
+    "skills": [
+      {
+        "name": "Commercial art gallery manager",
+        "level": "Beginner"
+      },
+      {
+        "name": "Technical author",
+        "level": "Advanced"
+      },
+      {
+        "name": "Camera operator",
+        "level": "Beginner"
+      }
+    ],
+    "education": {
+      "degree": "Master's",
+      "major": "Teacher, special educational needs",
+      "university": "Hunter, Smith and Atkinson",
+      "graduation_year": {
+        "$numberInt": "2013"
+      },
+      "additional_info": {
+        "thesis_topic": "Yard cold option need side popular.",
+        "advisor": "Kayla Elliott"
+      }
+    }
+  }

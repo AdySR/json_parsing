@@ -14,6 +14,6 @@ flatten_json_data = flatten_json(json_data)
 
 df_json= pd.DataFrame(flatten_json_data , ['key'])
 
-df_json.to_csv('./s3_1.csv')
+df_json.to_csv('./s3_1.csv', index=False
 
 print(df_json)
